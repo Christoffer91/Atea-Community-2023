@@ -1,0 +1,14 @@
+﻿# Normalize line endings for text files
+* text=auto
+
+# Common binary formats
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.7z binary
+*.mp4 binary
+*.mov binary
